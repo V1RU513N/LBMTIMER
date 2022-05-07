@@ -2,16 +2,16 @@
   font-size: 30px;
   text-align: center;
   color: white;
-  font-family: 'aquire';
   font-weight: bold;
-  text-shadow: -2px 0 black, 0 2px black,
-      2px 0 black, 0 -2px black
+  text-shadow: -3px 0 black, 0 3px black,
+      3px 0 black, 0 -3px black
 }
 
 #minutes {
-  height: 30px;
+  height: 35px;
   width: 100px;
   margin: 5px;
+  border: none;
   border-radius: 4px;
   text-align: center;
 }
@@ -21,9 +21,8 @@
   background: red;
   color: white;
   height: 40px;
-  font-family: 'aquire';
   border: none;
-  border-bottom: 5px solid crimson;
+  border-bottom: 1px solid crimson;
   border-radius: 5px;
 }
 
