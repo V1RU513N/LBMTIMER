@@ -52,7 +52,7 @@
     }
 	 if (secondsRemaining === 1740) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1739) {
       timeDisplay.style.color = 'white';
@@ -69,7 +69,7 @@
     }
 	 if (secondsRemaining === 1720) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1719) {
       timeDisplay.style.color = 'white'
@@ -86,7 +86,7 @@
     }
 	 if (secondsRemaining === 1700) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1699) {
       timeDisplay.style.color = 'white';
@@ -103,7 +103,7 @@
     }
 	 if (secondsRemaining === 1680) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1679) {
       timeDisplay.style.color = 'white';
@@ -120,7 +120,7 @@
     }
 	 if (secondsRemaining === 1660) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1659) {
       timeDisplay.style.color = 'white';
@@ -137,7 +137,7 @@
     }
 	 if (secondsRemaining === 1640) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1639) {
       timeDisplay.style.color = 'white';
@@ -154,7 +154,7 @@
     }
 	 if (secondsRemaining === 1620) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1619) {
       timeDisplay.style.color = 'white';
@@ -171,7 +171,7 @@
     }
 	 if (secondsRemaining === 1600) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1599) {
       timeDisplay.style.color = 'white';
@@ -188,7 +188,7 @@
     }
 	 if (secondsRemaining === 1580) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1579) {
       timeDisplay.style.color = 'white';
@@ -206,7 +206,7 @@
     }
 	 if (secondsRemaining === 1560) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1559) {
       timeDisplay.style.color = 'white';
@@ -223,7 +223,7 @@
     }
 	 if (secondsRemaining === 1540) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1539) {
       timeDisplay.style.color = 'white';
@@ -240,7 +240,7 @@
     }
 	 if (secondsRemaining === 1520) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1519) {
       timeDisplay.style.color = 'white';
@@ -257,7 +257,7 @@
     }
 	 if (secondsRemaining === 1490) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1489) {
       timeDisplay.style.color = 'white';
@@ -274,7 +274,7 @@
     }
 	 if (secondsRemaining === 1464) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1463) {
       timeDisplay.style.color = 'white';
@@ -291,7 +291,7 @@
     }
 	 if (secondsRemaining === 1436) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1435) {
       timeDisplay.style.color = 'white';
@@ -308,7 +308,7 @@
     }
 	 if (secondsRemaining === 1408) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1407) {
       timeDisplay.style.color = 'white';
@@ -325,7 +325,7 @@
     }
 	 if (secondsRemaining === 1380) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1379) {
       timeDisplay.style.color = 'white';
@@ -342,7 +342,7 @@
     }
 	 if (secondsRemaining === 1350) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1349) {
       timeDisplay.style.color = 'white';
@@ -359,7 +359,7 @@
     }
 	 if (secondsRemaining === 1320) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1319) {
       timeDisplay.style.color = 'white';
@@ -376,7 +376,7 @@
     }
 	 if (secondsRemaining === 1290) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1289) {
       timeDisplay.style.color = 'white';
@@ -393,7 +393,7 @@
     }
 	 if (secondsRemaining === 1268) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1267) {
       timeDisplay.style.color = 'white';
@@ -410,7 +410,7 @@
     }
 	 if (secondsRemaining === 1238) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1237) {
       timeDisplay.style.color = 'white';
@@ -427,7 +427,7 @@
     }
 	 if (secondsRemaining === 1210) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1209) {
       timeDisplay.style.color = 'white';
@@ -444,7 +444,7 @@
     }
 	 if (secondsRemaining === 1190) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1185) {
       timeDisplay.style.color = 'white';
@@ -461,7 +461,7 @@
     }
 	 if (secondsRemaining === 1147) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1146) {
       timeDisplay.style.color = 'white';
@@ -478,7 +478,7 @@
     }
 	 if (secondsRemaining === 1110) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1109) {
       timeDisplay.style.color = 'white';
@@ -495,7 +495,7 @@
     }
 	 if (secondsRemaining === 1080) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1079) {
       timeDisplay.style.color = 'white';
@@ -512,7 +512,7 @@
     }
 	 if (secondsRemaining === 1040) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1039) {
       timeDisplay.style.color = 'white';
@@ -530,7 +530,7 @@
     }
 	 if (secondsRemaining === 1003) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 1002) {
       timeDisplay.style.color = 'white';
@@ -547,7 +547,7 @@
     }
 	 if (secondsRemaining === 967) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 966) {
       timeDisplay.style.color = 'white';
@@ -564,7 +564,7 @@
     }
 	 if (secondsRemaining === 930) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 929) {
       timeDisplay.style.color = 'white';
@@ -581,7 +581,7 @@
     }
 	 if (secondsRemaining === 895) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 894) {
       timeDisplay.style.color = 'white';
@@ -598,7 +598,7 @@
     }
 	 if (secondsRemaining === 860) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 859) {
       timeDisplay.style.color = 'white';
@@ -615,7 +615,7 @@
     }
 	 if (secondsRemaining === 831) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 830) {
       timeDisplay.style.color = 'white';
@@ -632,7 +632,7 @@
     }
 	 if (secondsRemaining === 815) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 814) {
       timeDisplay.style.color = 'white';
@@ -649,7 +649,7 @@
     }
 	 if (secondsRemaining === 770) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 769) {
       timeDisplay.style.color = 'white';
@@ -666,7 +666,7 @@
     }
 	 if (secondsRemaining === 726) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 724) {
       timeDisplay.style.color = 'white';
@@ -683,7 +683,7 @@
     }
 	 if (secondsRemaining === 684) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 683) {
       timeDisplay.style.color = 'white';
@@ -700,7 +700,7 @@
     }
 	 if (secondsRemaining === 640) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 639) {
       timeDisplay.style.color = 'white';
@@ -717,7 +717,7 @@
     }
 	 if (secondsRemaining === 595) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 594) {
       timeDisplay.style.color = 'white';
@@ -734,7 +734,7 @@
     }
 	 if (secondsRemaining === 550) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 549) {
       timeDisplay.style.color = 'white';
@@ -751,7 +751,7 @@
     }
 	 if (secondsRemaining === 499) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 498) {
       timeDisplay.style.color = 'white';
@@ -769,7 +769,7 @@
     }
 	 if (secondsRemaining === 447) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 446) {
       timeDisplay.style.color = 'white';
@@ -786,7 +786,7 @@
     }
 	 if (secondsRemaining === 394) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 393) {
       timeDisplay.style.color = 'white';
@@ -803,7 +803,7 @@
     }
 	 if (secondsRemaining === 344) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 343) {
       timeDisplay.style.color = 'white';
@@ -820,7 +820,7 @@
     }
 	 if (secondsRemaining === 290) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 289) {
       timeDisplay.style.color = 'white';
@@ -837,7 +837,7 @@
     }
 	 if (secondsRemaining === 230) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 229) {
       timeDisplay.style.color = 'white';
@@ -854,7 +854,7 @@
     }
 	 if (secondsRemaining === 170) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 169) {
       timeDisplay.style.color = 'white';
@@ -871,7 +871,7 @@
     }
 	 if (secondsRemaining === 110) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 109) {
       timeDisplay.style.color = 'white';
@@ -888,7 +888,7 @@
     }
 	 if (secondsRemaining === 50) {
       timeDisplay.style.color = 'green';
-	  document.getElementById('respawnnow').play();
+	  
     }
 	 if (secondsRemaining === 49) {
       timeDisplay.style.color = 'white';

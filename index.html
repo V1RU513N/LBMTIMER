@@ -5,13 +5,18 @@
   <title>LBM.EXE</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./volume.css">
   <link rel="icon" href="./favicon.ico" />
-  <audio id="respawnnow" src="respawnnow.mp3" preload="auto"></audio>
-  <audio id="respawn10" src="respawn10.mp3" preload="auto"></audio>
+  <audio id="respawn10" src="respawnD10.mp3" preload="auto"></audio>
 </head>
 <body>
 <!-- partial:index.partial.html -->
 <html>
+<div class="VolumeContainer">
+	<i class="fa fa-5x fa-volume-up" aria-hidden="true"  id="volbtn"></i>
+	<input id="prgvol" type="range" min="0" max="100" value="100" oninput="volume(this.value)"/>
+	<div id="volume_value">100</div>
+</div>
   <body>
     <div id="container">
       <div id="inputArea_two"></div>
@@ -22,6 +27,7 @@
 	  Next Spawn :<h2 id="respawn">29:00</h2>
 	 <div id="inputArea"><p>START QUAND LE TIMER INGAME ARRIVE A 1:01</p></div>
     </div>
+</div>
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
 <section>
   <ul class="icon-list">
@@ -37,5 +43,6 @@
 </html>
 <!-- partial -->
   <script  src="./script.js"></script>
+   <script  src="./volume.js"></script>
 </body>
 </html>
